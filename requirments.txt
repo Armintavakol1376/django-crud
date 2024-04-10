@@ -1,0 +1,4 @@
+asgiref==3.8.1
+Django==4.1.13
+django-widget-tweaks==1.4.12
+sqlparse==0.4.4
